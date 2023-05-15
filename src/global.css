@@ -1,0 +1,5 @@
+html, body { @apply h-full overflow-hidden; }
+
+table td:nth-child(2) {
+    
+}
