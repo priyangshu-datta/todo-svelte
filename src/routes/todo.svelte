@@ -29,7 +29,6 @@
 			if (id === null || todo_text === null || (todo_text === t_text && completed === t_complete)) {
 				cancel()
 				loading = false
-				console.log('Cancelled')
 			}
 
 			data.set('id', id)
